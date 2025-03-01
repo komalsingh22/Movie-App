@@ -13,7 +13,8 @@ class Toprated extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          ModifiedText(text: 'Top Rated ', color: Colors.white, size: 26),
+          ModifiedText(
+              text: 'Top Rated Movies ', color: Colors.white, size: 26),
           const SizedBox(height: 10),
           SizedBox(
             height: 270,
