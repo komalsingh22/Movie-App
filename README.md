@@ -1,4 +1,5 @@
 
+
 # 🎬 Movie App in Flutter
 
 **Movie App** is a beautiful and easy-to-use application that allows users to explore and enjoy a wide array of movies and TV shows. With this app, users can browse trending movies, top-rated movies, and TV shows, watch trailers, and view detailed information about each movie, including release date and an overview.
@@ -8,6 +9,7 @@
 - **Browse TV Shows and Movies**: Users can explore a variety of TV shows and movies, including trending and top-rated ones.
 - **Movie Details**: Clicking on a movie provides users with detailed information, including the release date and an overview.
 - **Watch Trailers**: Users can watch trailers of their favorite movies within the app.
+- **Search Bar**: Users can search for their favorite movies and TV shows using the search bar.
 
 ## 📸 Screenshots
 <img width="343" alt="Screenshot 2025-03-02 at 10 49 22 AM" src="https://github.com/user-attachments/assets/92bd556e-5584-463a-a108-d09fe3083379" />
@@ -26,7 +28,6 @@
 - [Dart](https://dart.dev/)
 - [TMDB API](https://www.themoviedb.org/documentation/api)
 - [Flutter YouTube Player](https://pub.dev/packages/youtube_player_flutter)
-
 
 ### Prerequisites
 
@@ -65,6 +66,5 @@ Contributions are what make the open-source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
 
 
