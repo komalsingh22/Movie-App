@@ -10,9 +10,12 @@
 - **Watch Trailers**: Users can watch trailers of their favorite movies within the app.
 
 ## 📸 Screenshots
+<img width="343" alt="Screenshot 2025-03-02 at 10 49 22 AM" src="https://github.com/user-attachments/assets/92bd556e-5584-463a-a108-d09fe3083379" />
 
-![Home Screen](images/home_screen.png)
-![Movie Details](images/movie_details.png)
+<img width="343" alt="Screenshot 2025-03-02 at 10 53 16 AM" src="https://github.com/user-attachments/assets/9c96e084-655e-47db-ac02-d09322ee1e04" />
+
+
+
 
 ## 🔧 Built With
 
